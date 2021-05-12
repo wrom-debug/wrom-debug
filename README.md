@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wrom-debug
+- 🌱 I’m currently learning python
+- 📫 How to reach me 245774348@qq.com
